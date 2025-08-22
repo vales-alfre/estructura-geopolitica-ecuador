@@ -1,0 +1,7 @@
+streamlit==1.38.0
+pandas>=2.0
+requests
+folium>=0.15
+streamlit-folium>=0.18
+plotly>=5.20
+xlrd==1.2.0
